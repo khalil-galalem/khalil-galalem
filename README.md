@@ -14,7 +14,8 @@
 
 
 <h3 align="center">Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalil-galalem" alt="khalil-galalem" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalil-galalem&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="khalil-galalem" /></a> </p>
+
 
 <h3 align="center">Connect</h3>
 <p align="center">
@@ -23,6 +24,7 @@
 <a href="https://fb.com/khalil.galalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalil.galalem" height="30" width="40" /></a>
 <a href="https://instagram.com/khalilgalalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalilgalalem" height="30" width="40" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake game" />
