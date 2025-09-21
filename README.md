@@ -8,9 +8,9 @@
 
 
 <h3 align="center">Stats</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khalil-galalem&show_icons=true&locale=en" alt="khalil-galalem" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalil-galalem&show_icons=true&locale=en&layout=compact" alt="khalil-galalem" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khalil-galalem&" alt="khalil-galalem" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khalil-galalem&theme=dark&show_icons=true&locale=en" alt="khalil-galalem" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalil-galalem&theme=dark&show_icons=true&locale=en&layout=compact" alt="khalil-galalem" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khalil-galalem&theme=dark" alt="khalil-galalem" /></p>
 
 
 <h3 align="center">Trophies</h3>
